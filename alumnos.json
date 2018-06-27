@@ -1,0 +1,36 @@
+[{
+		"nombre": "Hector Manuel Garay",
+		"email": "hemagarayoc@ittepic.edu.mx",
+		"genero": "Masculino",
+		"calificaciones": [{
+				"materia": "matematicas",
+				"calificacion": "100",
+				"materia": "español",
+				"calificacion": "90"
+			}
+
+		],
+		"promedio": "95",
+		"fecha_nac": "11/03/1995",
+		"activo": true
+	},
+	{
+		"nombre": "Hector Manuel Garay2",
+		"email": "hemagarayoc@ittepic.edu.mx",
+		"genero": "Masculino",
+		"calificaciones": [{
+				"materia": "matematicas",
+				"calificacion": "100",
+				"materia": "español",
+				"calificacion": "90"
+
+
+			],
+			"promedio": "95",
+			"fecha_nac": "11/03/1995",
+			"activo": true
+		}
+
+
+
+	]
