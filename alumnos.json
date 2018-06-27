@@ -1,36 +1,35 @@
 [{
-		"nombre": "Hector Manuel Garay",
-		"email": "hemagarayoc@ittepic.edu.mx",
-		"genero": "Masculino",
-		"calificaciones": [{
-				"materia": "matematicas",
-				"calificacion": "100",
-				"materia": "español",
-				"calificacion": "90"
-			}
-
-		],
-		"promedio": "95",
-		"fecha_nac": "11/03/1995",
-		"activo": true
-	},
-	{
-		"nombre": "Hector Manuel Garay2",
-		"email": "hemagarayoc@ittepic.edu.mx",
-		"genero": "Masculino",
-		"calificaciones": [{
-				"materia": "matematicas",
-				"calificacion": "100",
-				"materia": "español",
-				"calificacion": "90"
-
-
-			],
-			"promedio": "95",
-			"fecha_nac": "11/03/1995",
-			"activo": true
-		}
-
-
-
-	]
+    "Nombre": "Eduardo Silva",
+    "email": "edlusilvaca@ittepic.edu.mx",
+    "genero": "Masculino",
+    "calificaciones": [{
+            "materia": "matematicas",
+            "calificacion": 100
+        },
+        {
+            "materia": "español",
+            "calificacion": 90
+        }
+    ],
+    "promedio": 95,
+    "fecha_nac": "19/04/1995",
+    "activo": true
+},
+{
+    "Nombre": "Luis Camacho",
+    "email": "silvaca@ittepic.edu.mx",
+    "genero": "Masculino",
+    "calificaciones": [{
+            "materia": "matematicas",
+            "calificacion": 90
+        },
+        {
+            "materia": "español",
+            "calificacion": 90
+        }
+    ],
+    "promedio": 85,
+    "fecha_nac": "02/08/1995",
+    "activo": true
+}
+]
